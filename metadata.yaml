@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42761'
     url: http://www.gutenberg.org/2009/agents/42761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44442#Psychologie-und-Logikzur-Einf-hrung-in-die-Philosophie
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
