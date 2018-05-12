@@ -1,0 +1,26 @@
+_repo: Psychologie-und-Logikzur-Einf-hrung-in-die-Philosophie_44442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44442-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Elsenhans, Theodor
+    birthdate: 1862
+    deathdate: 1918
+    gutenberg_agent_id: '42761'
+    url: http://www.gutenberg.org/2009/agents/42761
+description: ''
+gutenberg_issued: '2013-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44442'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology -- Outlines, syllabi, etc.'
+title: 'Psychologie und Logik: zur Einführung in die Philosophie'
+url: http://www.gutenberg.org/ebooks/44442
